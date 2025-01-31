@@ -1,0 +1,12 @@
+const age = 16;
+console.log(typeof(age));
+const name = "Vlad";
+console.log(typeof(name));
+const isStudent = true;
+console.log(typeof(isStudent));
+const  myString = "The purpose of our life is to be happy";
+console.log(typeof(myString));
+const myNumber = 8;
+console.log(typeof(myNumber));
+const myNul = null;
+console.log(typeof(myNul));
